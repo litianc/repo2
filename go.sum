@@ -1,0 +1,7 @@
+github.com/litianc/repo v0.1.0 h1:6mbgg5Lxytvylp+pXbnHZ9pqcBMU+GOmELXq4IAT7cA=
+github.com/litianc/repo v0.1.0/go.mod h1:0xH9qwRmw4axFvRkhJ+6cM7pJ6HUL6D1pJdv94fwyXE=
+github.com/litianc/repo v0.2.0 h1:m+kd4NRBOv/jfIdy4CA5m+fYC4ciZbxqFit8lE8OJPw=
+github.com/litianc/repo v0.2.0/go.mod h1:0xH9qwRmw4axFvRkhJ+6cM7pJ6HUL6D1pJdv94fwyXE=
+golang.org/x/text v0.0.0-20170915032832-14c0d48ead0c/go.mod h1:NqM8EUOU14njkJ3fqMW+pc6Ldnwhi/IjpwHt7yyuwOQ=
+rsc.io/quote v1.5.2/go.mod h1:LzX7hefJvL54yjefDEDHNONDjII0t9xZLPXsUe+TKr0=
+rsc.io/sampler v1.3.0/go.mod h1:T1hPZKmBbMNahiBKFy5HrXp6adAjACjK9JXDnKaTXpA=
